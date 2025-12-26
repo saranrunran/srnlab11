@@ -57,7 +57,7 @@ void checkWinner(int p, int y){
 	// cout <<   "|          Yugi wins!!!         |"; // when p is less than y
 	// cout << "\n---------------------------------\n";
 }
-
+//halo
 int main(){	
     srand(time(0)); //This line of code is not completed. Fill the correct input of srand(); 
 
